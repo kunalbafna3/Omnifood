@@ -1,5 +1,5 @@
 # Omnifood
-![Thumbnail](https://github.com/kunalbafna3/Omnifood/blob/main/homepage.PNG)
+![Thumbnail](https://github.com/kunalbafna3/Omnifood/blob/main/homepagee.PNG)
 
 ### Description
 - Homepage of the food delivering website.
